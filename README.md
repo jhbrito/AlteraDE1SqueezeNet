@@ -1,0 +1,1 @@
+# AlteraDE1SqueezeNet
