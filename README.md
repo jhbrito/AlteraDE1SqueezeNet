@@ -8,3 +8,5 @@ https://user-images.githubusercontent.com/19577316/120108803-a38dd500-c15e-11eb-
 
 This project contains the implementation of SqueezeNet on the (Intel) Altera DE1-SoC
 
+This project reuses some code from https://github.com/Er1cZ/Deploying_CNN_on_FPGA_using_OpenCL
+
