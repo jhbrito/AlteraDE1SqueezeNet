@@ -1,0 +1,8 @@
+Tempo Medio de Abrir Ficheiro: 0.0576146 s  Desvio Padrao de: 0.0216679
+Tempo Medio de Pre Processar Imagem: 0.0338703 s  Desvio Padrao de: 0.00717438
+Tempo Medio de Convolucao: 0.102912 s  Desvio Padrao de: 0.0021658
+Tempo Medio de Block1: 0.195588 s  Desvio Padrao de: 0.00244578
+Tempo Medio de Block2: 0.258566 s  Desvio Padrao de: 0.0062024
+Tempo Medio de Block3: 0.42735 s  Desvio Padrao de: 0.0131381
+Tempo Medio de Classificar: 0.458932 Desvio Padrao de: 0.0191282
+Total de Imagens Captadas: 501

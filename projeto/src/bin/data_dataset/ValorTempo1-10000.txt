@@ -1,0 +1,7 @@
+Total de tempo de Leitura de imagem 5297.211684 
+Total de tempo de Processar Imagem 284.867479 
+Total de tempo de Convolucao 1026.942083 
+Total de tempo do bloco 1 1952.778178 
+Total de tempo do bloco 2 2578.988608 
+Total de tempo do bloco 3 4261.535059 
+Total de tempo de classificar a imagem 4564.687271 
